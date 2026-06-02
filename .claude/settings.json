@@ -5,9 +5,9 @@
       "Skill(update-config:*)",
       "Skill(confluence-export:*)",
       "Skill(confluence-images:*)",
-      "Edit(/.claude/skills/ocr-pipeline/**)",
-      "Bash(git add *)",
-      "Bash(git commit -m ' *)"
+      "Skill(confluence-diff:*)",
+      "Skill(confluence-sync:*)",
+      "Edit(/.claude/skills/ocr-pipeline/**)"
     ],
     "additionalDirectories": [
       "C:\\Users\\philippe\\source\\repos\\iamphilg\\addsgouvernance\\.claude\\skills"
