@@ -4,7 +4,13 @@
       "Read(//c/Users/philippe/.claude/**)",
       "Skill(update-config:*)",
       "Skill(confluence-export:*)",
-      "Edit(/.claude/skills/ocr-pipeline/**)"
+      "Skill(confluence-images:*)",
+      "Edit(/.claude/skills/ocr-pipeline/**)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\philippe\\source\\repos\\iamphilg\\addsgouvernance\\.claude\\skills"
     ]
   }
 }
