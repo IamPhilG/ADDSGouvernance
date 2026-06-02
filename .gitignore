@@ -1,0 +1,15 @@
+# Dossier de sortie généré automatiquement
+output/*
+!output/.gitkeep
+
+# Dossier d'images source (ne pas versionner les images)
+images/*
+!images/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets — ne jamais pousser
+.env
