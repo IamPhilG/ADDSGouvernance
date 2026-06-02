@@ -1,0 +1,9 @@
+{
+  "skills": [
+    "skills/confluence-export/SKILL.md",
+    "skills/ocr-pipeline/SKILL.md",
+    "skills/confluence-images/SKILL.md",
+    "skills/confluence-diff/SKILL.md",
+    "skills/confluence-sync/SKILL.md"
+  ]
+}

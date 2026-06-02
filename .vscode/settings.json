@@ -1,1 +1,16 @@
-{}
+{
+  "github.copilot.chat.codeGeneration.instructions": [
+    { "file": ".agents/skills/confluence-export/SKILL.md" },
+    { "file": ".agents/skills/ocr-pipeline/SKILL.md" },
+    { "file": ".agents/skills/confluence-images/SKILL.md" },
+    { "file": ".agents/skills/confluence-diff/SKILL.md" },
+    { "file": ".agents/skills/confluence-sync/SKILL.md" }
+  ],
+  "github.copilot.chat.agentInstructions": [
+    { "file": ".agents/skills/confluence-export/SKILL.md" },
+    { "file": ".agents/skills/ocr-pipeline/SKILL.md" },
+    { "file": ".agents/skills/confluence-images/SKILL.md" },
+    { "file": ".agents/skills/confluence-diff/SKILL.md" },
+    { "file": ".agents/skills/confluence-sync/SKILL.md" }
+  ]
+}
