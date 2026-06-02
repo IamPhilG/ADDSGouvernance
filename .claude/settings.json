@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/philippe/.claude/**)",
+      "Skill(update-config:*)",
+      "Skill(confluence-export:*)",
+      "Edit(/.claude/skills/ocr-pipeline/**)"
+    ]
+  }
+}
