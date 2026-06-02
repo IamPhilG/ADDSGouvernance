@@ -1,16 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Read(//c/Users/philippe/.claude/**)",
+      "Read(//c/Users/philippe/.claude/skills/**)",
       "Skill(update-config:*)",
       "Skill(confluence-export:*)",
       "Skill(confluence-images:*)",
       "Skill(confluence-diff:*)",
       "Skill(confluence-sync:*)",
-      "Edit(/.claude/skills/ocr-pipeline/**)"
-    ],
-    "additionalDirectories": [
-      "C:\\Users\\philippe\\source\\repos\\iamphilg\\addsgouvernance\\.claude\\skills"
+      "Skill(ocr-pipeline:*)"
     ]
   }
 }
